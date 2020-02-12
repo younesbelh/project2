@@ -1,0 +1,208 @@
+
+body { 
+
+	background: #F7F9FC;
+	color: rgba(40,40,40);
+	font-family: 'Lora', serif;
+	font-size: 24px;
+	font-weight: lighter
+} 
+
+body p { 
+	text-align: justify;
+  	text-justify: inter-word;  }
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+	color: #B5651D;
+
+}
+
+h1 { 
+font-size: 32px;
+font-weight: 900;
+ }
+
+h2 {
+	font-size: 24px;
+	font-weight: 300;
+}
+
+
+nav{
+  width: 100vw;
+  background-color: white;
+}
+
+ul{ 
+margin: 0;
+padding: 0; 
+display: flex;
+}
+
+
+li{
+  font-size: 13px;
+  font-weight: lighter;
+  font-family: 'Roboto', sans-serif;
+  list-style-type: none;
+  margin: 0 2vw;
+  display: inline-flex;
+}
+
+body { 
+	margin: 0; }
+
+a {
+	text-decoration: none;
+	color: blue;
+  	color: black; 
+  	padding: 2vw; 
+  	font-family: monospace;
+}
+
+a:hover {
+	color: black;
+	background-color: grey;
+}
+
+
+.container {
+	width: 700px; 
+	margin: 40px auto; 
+}
+
+	
+
+
+
+.card-white { 
+	background-color: white;
+	padding: 20px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+	border-radius: 4px
+	margin: 30px 0px ;
+	text-align: center;
+	 } 
+
+
+.img-circle {
+	border-radius: 50%;
+	width: 120px;
+	height: 120px;
+	border-radius: 50%;
+	margin-top: 5px;
+
+}
+
+.btn-blue { 
+	color: blue; 
+	padding: 15px 20px;
+	border-radius: 40px;
+	}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li { 
+	display: inline;
+ 	padding: 10px; }
+ 
+
+.list-inline i { 
+	font-size: 50px; 
+	color: rgb(230,230,230);
+	 }
+
+.list-inline i { 
+		color: #B5651D; }
+
+#introduction  p { 
+	margin-bottom: 10px;
+	}
+
+
+
+
+#avatar { 
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 5px;
+		}
+
+
+.container { 
+	width: 700px ;
+	margin: 0 auto ; 
+			}
+
+.container p { 
+font-size: 10; }
+			
+
+@media (max-width: 960px) { 
+	.container { 
+		width: 700px;
+		 }
+	}
+
+@media (max-width: 720px) { 
+	.container { 
+		width: 500px;
+		 }
+	}
+
+
+
+
+.container p { 
+	color: rgba(40,40,40);
+	font-family: 'Lora', serif;
+	font-size: 24px;
+	text-align:center;
+ }
+
+
+
+#headertochange { 
+	text-align: center; }
+
+
+#link { 
+	color: blue; 
+	background-color: grey;
+	}
+
+
+
+#thank_you_text { 
+text-align: center;
+margin-top: 300px;
+	 }
+
+#link2 { 
+	text-align: center;
+	 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

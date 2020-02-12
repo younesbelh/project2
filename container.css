@@ -1,0 +1,23 @@
+
+
+
+.container { 
+	width: 700px ;
+	margin: 0 auto ; 
+			}
+
+.container p { 
+font-size: 10; }
+			
+
+@media (max-width: 960px) { 
+	.container { 
+		width: 700px;
+		 }
+	}
+
+@media (max-width: 720px) { 
+	.container { 
+		width: 500px;
+		 }
+	}

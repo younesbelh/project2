@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Roboto&display=swap");
+@import url("container.css");
+@import url("avatar.css");
+@import url("btn-blue.css");
+@import url("banner.css");
+@import url("card.css");
+@import url("videoyoutube.css");
+
+
+body { 
+	font-family: 'Lora', serif
+	font-size: 18px;
+	background-color: rgb(241,241,241);
+
+	 }
+
+h1, h2, h3 { 
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+			 }
+
+p { 
+	font-size: 30px;
+	 }
+
+
+body { 
+	font-family: 'Lora', serif
+	font-size: 18px;
+	 }
+
+h2, h3 { 
+	font-size: 24px;
+	font-weight: 300;
+	 }
+
+
+li{
+  list-style-type: none;
+  margin: 0 2vw;
+  display: inline-flex;
+
+}
+
+a{
+  text-decoration: none;
+  color: black; 
+  padding: 2vw; 
+  font-family: monospace;
+}
+
+a:hover{
+	background-color: grey;
+}
+
+nav{
+  width: 100vw;
+  background-color: white;
+}
+
+ul{ 
+margin: 0;
+padding: 0; 
+display: flex;
+}
+
+body { 
+	margin: 0; }
+
+#question { 
+		font-weight: bolder; 
+		color: #B5651D; } 
+
+#paragraph1 { 
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	text-align: justify;
+  text-justify: inter-word; }
+
+  #avatar { 
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	margin-top: 5px;
+		}
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
